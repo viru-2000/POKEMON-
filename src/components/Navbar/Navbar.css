@@ -1,0 +1,40 @@
+.navbar{
+    height: 10vh;
+    background-color: aliceblue;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    z-index: 11;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.nav-right{
+    padding-right: 80px;
+}
+
+.nav-select{
+    padding: 3px 40px;
+    border-radius: 4px;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.nav-select option{
+    padding: 55px 10px;
+
+}
+
+.option{
+    color: rgb(12, 12, 12);
+    padding: 15px 0px;
+    font-size: 20px;
+}
+
+.nav-logo{
+    margin-left: 50px;
+    font-weight: bolder;
+    font-size: 24px;
+    color: #b246c5;
+}
+
